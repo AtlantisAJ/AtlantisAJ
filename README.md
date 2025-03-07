@@ -3,7 +3,7 @@
 <h3>I'm a Software Engineer</h3>
 🔭 Mobile App Development - React Native<br>
 🔭 Frontend Development - React, TypeScript, JavaScript, HTML, CSS<br>
-🔭 Backend - RESTApi, NodeJS, Python<br>
+🔭 Backend - RESTApi, NodeJS, NextJS, Python<br>
 🔭 DevOps and Hosting - Docker, Firebase, Google Cloud Platform<br>
 </div>
 
